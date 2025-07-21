@@ -174,7 +174,7 @@ Z mého omezeného průzkumu tématiky vyplývá, že je uchovávání digitáln
 
 Je zároveň (velmi) vhodné aby měli umělci sami nástroje, kterými mohou dynamická díla dokumentovat a uchovávat, nejlépe pokud stejné nástroje budou následně zjednodušovat práci archivním nebo galerijním institucím. Nejzajímavější myšlenkou, která z procesu tohoto textu vyvstala je jakési spojení přístupu Variable Media a systému Git. Pokud se při snaze popsat umělecké dílo zaměřujeme na jeho chování, komponenty a vývoj, zdají se vlastnosti Gitu relativně vhodné a zároveň velká část softwaru, který digitální díla používají, už se na serverech jako GitHub, nebo Gitea existují. Tématem se budu buď nadále zabývat, nebo o něm budu ruminovat.
 
-Nakonec přidávám změnu. Pokud vejdete do repositáře, můžete najít původní verzi bez této poznámky.
+Nakonec přidávám změnu. Pokud vejdete do [repositáře](https://github.com/simonrychlik/art_conservation/branches/yours), můžete najít původní verzi bez této poznámky.
 # **Zdroje:**
 
 CHUN, Wendy Hui Kyong. *The Enduring Ephemeral, or the Future Is a Memory. Online. Critical Inquiry.* 2008, roč. 35, č. 1, s. 148-171. ISSN 0093-1896. Dostupné z: [https://doi.org/10.1086/595632](https://doi.org/10.1086/595632). \[cit. 2025-06-30\].
